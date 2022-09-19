@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "SolidPrinciples.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SolidPrinciples.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolidPrinciples.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolidPrinciples.Lib/1.0.0": {
+      "type": "project",
+      "path": "libs/SolidPrinciples/SolidPrinciples.Lib.csproj",
+      "msbuildProject": "libs/SolidPrinciples/SolidPrinciples.Lib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "SolidPrinciples.Lib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\eharu\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\eharu\\source\\repos\\CarAutomation\\CarAutomation.csproj",
+      "projectName": "CarAutomation",
+      "projectPath": "C:\\Users\\eharu\\source\\repos\\CarAutomation\\CarAutomation.csproj",
+      "packagesPath": "C:\\Users\\eharu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eharu\\source\\repos\\CarAutomation\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\eharu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\eharu\\source\\repos\\CarAutomation\\libs\\SolidPrinciples\\SolidPrinciples.Lib.csproj": {
+              "projectPath": "C:\\Users\\eharu\\source\\repos\\CarAutomation\\libs\\SolidPrinciples\\SolidPrinciples.Lib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
