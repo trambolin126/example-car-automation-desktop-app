@@ -31,7 +31,7 @@ namespace CarAutomation
                     break;
             }
 
-            OptionCloser();
+            AppCloser();
 
         }
 
@@ -47,7 +47,7 @@ namespace CarAutomation
             Console.Write("Your option? ");
         }
 
-        static void OptionCloser()
+        static void AppCloser()
         {
             Console.WriteLine("");
             Console.Write("Press any key to close the console app...");
