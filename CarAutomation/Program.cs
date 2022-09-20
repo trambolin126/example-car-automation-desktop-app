@@ -54,12 +54,21 @@ namespace CarAutomation
             Console.ReadKey();
         }
 
-        static Double InputWaiter(String inputName)
+        static String InputWaiter(String inputName)
         {
             Console.WriteLine("");
             Console.Write($"Input your {inputName}: ");
 
-            return Convert.ToDouble(Console.ReadLine());
+            var input = Console.ReadLine();
+
+            if (input != null)
+            {
+                return input;
+            }
+            else
+            {
+                return "";
+            }
         }
 
         static String SelectCar()
@@ -98,7 +107,7 @@ namespace CarAutomation
         static void CalculateTripCost()
         {
             TestClass test = new TestClass();
-            test.CalculateTripCost(SelectCar(), InputWaiter("Trip KM"));
+            test.CalculateTripCost(SelectCar(), Convert.ToDouble(InputWaiter("Trip KM")));
         }
         
     }
