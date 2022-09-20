@@ -16,7 +16,7 @@ namespace CarAutomation
 
             // Ask the user to choose an option.
             OptionSelector();
-            Console.WriteLine("1 - Drive Car");
+            Console.WriteLine("1 - Drive a Car");
             Console.WriteLine("2 - Calculate Trip Cost");
             OptionWaiter();
 
