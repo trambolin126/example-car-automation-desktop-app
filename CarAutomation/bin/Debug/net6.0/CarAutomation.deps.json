@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CarAutomation/1.0.0": {
+        "dependencies": {
+          "SolidPrinciples.Lib": "1.0.0"
+        },
+        "runtime": {
+          "CarAutomation.dll": {}
+        }
+      },
+      "SolidPrinciples.Lib/1.0.0": {
+        "runtime": {
+          "SolidPrinciples.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarAutomation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidPrinciples.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

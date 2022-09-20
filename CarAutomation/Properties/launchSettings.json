@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CarAutomation": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\eharu\\source\\repos\\CarAutomation\\CarAutomation"
+    }
+  }
+}

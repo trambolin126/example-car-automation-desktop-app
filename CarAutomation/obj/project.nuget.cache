@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B08iblurj8zgTBtS2raF0nqy2JHkZPtJCwLbxQblHxhTu4lxRoy5AN6yJilX9lvjav+QiMUreFPUy3pWK8+O4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eharu\\source\\repos\\CarAutomation\\CarAutomation\\CarAutomation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eharu\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.27\\microsoft.windows.sdk.net.ref.10.0.22621.27.nupkg.sha512"
+  ],
+  "logs": []
+}
