@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eharu\\source\\repos\\CarAutomation\\CarAutomation\\CarAutomation.csproj",
+      "projectUniqueName": "C:\\Users\\eharu\\Desktop\\AURORA\\ORYANTASYON\\3-SOLID VE NAMING STANDARTLARI DETAY\\KAYNAK KODLARI\\CarAutomation\\CarAutomation\\CarAutomation.csproj",
       "projectName": "CarAutomation",
-      "projectPath": "C:\\Users\\eharu\\source\\repos\\CarAutomation\\CarAutomation\\CarAutomation.csproj",
+      "projectPath": "C:\\Users\\eharu\\Desktop\\AURORA\\ORYANTASYON\\3-SOLID VE NAMING STANDARTLARI DETAY\\KAYNAK KODLARI\\CarAutomation\\CarAutomation\\CarAutomation.csproj",
       "packagesPath": "C:\\Users\\eharu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eharu\\source\\repos\\CarAutomation\\CarAutomation\\obj\\",
+      "outputPath": "C:\\Users\\eharu\\Desktop\\AURORA\\ORYANTASYON\\3-SOLID VE NAMING STANDARTLARI DETAY\\KAYNAK KODLARI\\CarAutomation\\CarAutomation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eharu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0-windows10.0.22621": {
           "targetAlias": "net6.0-windows10.0.22621.0",
           "projectReferences": {
-            "C:\\Users\\eharu\\source\\repos\\CarAutomation\\SolidPrinciples\\SolidPrinciples.Lib.csproj": {
-              "projectPath": "C:\\Users\\eharu\\source\\repos\\CarAutomation\\SolidPrinciples\\SolidPrinciples.Lib.csproj"
+            "C:\\Users\\eharu\\Desktop\\AURORA\\ORYANTASYON\\3-SOLID VE NAMING STANDARTLARI DETAY\\KAYNAK KODLARI\\CarAutomation\\SolidPrinciples\\SolidPrinciples.Lib.csproj": {
+              "projectPath": "C:\\Users\\eharu\\Desktop\\AURORA\\ORYANTASYON\\3-SOLID VE NAMING STANDARTLARI DETAY\\KAYNAK KODLARI\\CarAutomation\\SolidPrinciples\\SolidPrinciples.Lib.csproj"
             }
           }
         }

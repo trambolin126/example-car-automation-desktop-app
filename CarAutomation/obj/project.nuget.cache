@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B08iblurj8zgTBtS2raF0nqy2JHkZPtJCwLbxQblHxhTu4lxRoy5AN6yJilX9lvjav+QiMUreFPUy3pWK8+O4A==",
+  "dgSpecHash": "9xbZO1aqCqqBQnYnLFFl0uRivsd+yc+hQ+bgX9J7tcC7hREvA7c530DpN+x8t7Nfr9Y1g2OxVFDYIr8ZDPY6Bg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eharu\\source\\repos\\CarAutomation\\CarAutomation\\CarAutomation.csproj",
+  "projectFilePath": "C:\\Users\\eharu\\Desktop\\AURORA\\ORYANTASYON\\3-SOLID VE NAMING STANDARTLARI DETAY\\KAYNAK KODLARI\\CarAutomation\\CarAutomation\\CarAutomation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eharu\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.27\\microsoft.windows.sdk.net.ref.10.0.22621.27.nupkg.sha512"
   ],
