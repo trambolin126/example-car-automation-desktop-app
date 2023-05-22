@@ -1,4 +1,4 @@
-# example-car-automation
+# example-car-automation-desktop-app
 An Example Console App
 
 includes S.O.L.I.D. Principles
