@@ -1,5 +1,5 @@
 # example-car-automation-desktop-app
-An Example Console App
+An Example Desktop App
 
 includes S.O.L.I.D. Principles
 
